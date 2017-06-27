@@ -122,4 +122,4 @@ YzsLib开源交流群：331973212
 ## [BadgeView](https://github.com/qstumn/BadgeView)
 ## 27.弹力布局.看图说话。
 
-## [BadgeView](https://github.com/wangdongyi/ElasticApplication)
+## [WDYElasticLayout](https://github.com/wangdongyi/ElasticApplication)
