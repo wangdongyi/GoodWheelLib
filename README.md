@@ -120,3 +120,6 @@ YzsLib开源交流群：331973212
 ## 26.一个可以自由定制外观、支持拖拽消除的MaterialDesign风格Android BadgeView（小红点）
 
 ## [BadgeView](https://github.com/qstumn/BadgeView)
+## 27.弹力布局.看图说话。
+
+## [BadgeView](https://github.com/wangdongyi/ElasticApplication)
